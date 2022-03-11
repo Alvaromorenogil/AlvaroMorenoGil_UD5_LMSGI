@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <titulo>YHLQMDLG</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="230">Si veo a tu mamá</cancion>
+        <cancion tiempo="230">Pero ya no</cancion>
+        <cancion tiempo="230">Yo perreo sola</cancion>
+        <cancion tiempo="200">La dificil</cancion>
+        <cancion tiempo="230">La santa</cancion>
+        <sello>DJ Luian</sello>
+        <año>2020</año>
+    </cd>
+    <cd>
+        <titulo>RealG4Life</titulo>
+        <artista>Ñengo 'Flow'</artista>
+        <cancion tiempo="230">Intro</cancion>
+        <cancion tiempo="230">Solo una oportunidad</cancion>
+        <cancion tiempo="230">Sigue viajando</cancion>
+        <cancion tiempo="200">Una mision</cancion>
+        <cancion tiempo="230">Pa' eso nada mas</cancion>
+        <sello>DJ Luian</sello>
+        <año>2017</año>
+    </cd>
+    <cd>
+        <titulo>Las que no iban a salir</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="230">SI ELLA SALE</cancion>
+        <cancion tiempo="230">BYE ME FUI</cancion>
+        <cancion tiempo="230">PA' ROMPERLA</cancion>
+        <cancion tiempo="200">MAS DE UNA CITA</cancion>
+        <cancion tiempo="230">CANCION CON YANDEL</cancion>
+        <sello>DJ Luian</sello>
+        <año>2020</año>
+    </cd>
+    <cd>
+        <titulo>El último tour del mundo</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="230">EL MUNDO ES MIO</cancion>
+        <cancion tiempo="230">BOOKER T</cancion>
+        <cancion tiempo="230">TE MUDASTE</cancion>
+        <cancion tiempo="200">MALDITA POBREZA</cancion>
+        <cancion tiempo="230">TE DESEO LO MEJOR</cancion>
+        <sello>DJ Luian</sello>
+        <año>2020</año>
+    </cd>
+    <cd>
+        <titulo>Oasis</titulo>
+        <artista tiempo="230">Bad Bunny y J Balvin</artista>
+        <cancion tiempo="230">Mojaita</cancion>
+        <cancion tiempo="230">Cuidao por ahi</cancion>
+        <cancion tiempo="200">La canción</cancion>
+        <cancion tiempo="230">Yo le llego</cancion>
+        <cancion tiempo="230">Un peso</cancion>
+        <sello>DJ Luian</sello>
+        <año>2019</año>
+    </cd>
+    <cd>
+        <titulo>X 100pre</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="230">Ni Bien Ni Mal</cancion>
+        <cancion tiempo="230">200 MPH</cancion>
+        <cancion tiempo="230">Caro</cancion>
+        <cancion tiempo="200">Otra noche en Miami</cancion>
+        <cancion tiempo="230">Tenemos que hablar</cancion>
+        <sello>DJ Luian</sello>
+        <año>2018</año>
+    </cd>
+    <cd>
+        <titulo>Up Next</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="230">Ni Bien Ni Mal (en vivo)</cancion>
+        <cancion tiempo="230">200 MPH (en vivo)</cancion>
+        <cancion tiempo="230">Caro (en vivo)</cancion>
+        <cancion tiempo="200">Otra noche en Miami (en vivo)</cancion>
+        <cancion tiempo="230">Tenemos que hablar (en vivo)</cancion>
+        <sello>DJ Luian</sello>
+        <año>2019</año>
+    </cd>
+    <cd>
+        <titulo>El Conejo Malo</titulo>
+        <artista>Bad Bunny</artista>
+        <cancion tiempo="200">Si tu novio te deja sola</cancion>
+        <cancion tiempo="230">Me llueven 2.0</cancion>
+        <cancion tiempo="230">Me llamas</cancion>
+        <cancion tiempo="230">Me acostumbre</cancion>
+        <cancion tiempo="230">Tú no vive así</cancion>
+        <sello>DJ Luian</sello>
+        <año>2017</año>
+    </cd>
+    <cd>
+        <titulo>LYKE MIKE</titulo>
+        <artista>Myke Towers</artista>
+        <cancion tiempo="230">MÍRENME AHORA</cancion>
+        <cancion tiempo="200">CUANDO ME VEN</cancion>
+        <cancion tiempo="230">JOVEN LEYENDA</cancion>
+        <cancion tiempo="230">PIN PIN</cancion>
+        <cancion tiempo="230">LO INVERTÍ</cancion>
+        <sello>DJ Luian</sello>
+        <año>2021</año>
+    </cd>
+    <cd>
+        <titulo>Easy Money Baby</titulo>
+        <artista>Myke Towers</artista>
+        <cancion tiempo="230">MIB</cancion>
+        <cancion tiempo="230">Parcerita</cancion>
+        <cancion tiempo="230">Tú</cancion>
+        <cancion tiempo="200">Una noche más</cancion>
+        <cancion tiempo="230">Fugaz</cancion>
+        <sello>DJ Luian</sello>
+        <año>2020</año>
+    </cd>
+</cds>

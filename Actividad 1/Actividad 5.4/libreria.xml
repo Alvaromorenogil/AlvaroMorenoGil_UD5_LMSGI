@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libros>
+        <autor>Alvaro Moreno Gil</autor>
+        <titulo>Ser o no ser, ahí está la cuestión</titulo>
+        <editorial>Apex</editorial>
+        <precio>10.00</precio>
+        <ISBN>1111</ISBN>
+        <numPaginas>150</numPaginas>
+    </libros>
+    <libros>
+        <autor>Airam El Curioso</autor>
+        <titulo>Te miro y te programo</titulo>
+        <editorial>Shadowman</editorial>
+        <precio>50.00</precio>
+        <ISBN>2222</ISBN>
+        <numPaginas>110</numPaginas>
+    </libros>
+    <libros>
+        <autor>Alberto Deltoides</autor>
+        <titulo>Como excitar tu deltoide</titulo>
+        <editorial>MuscleUp</editorial>
+        <precio>5.00</precio>
+        <ISBN>3333</ISBN>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Ruben Mesias Apostol</autor>
+        <titulo>Como conjuntar tu outfit</titulo>
+        <editorial>MuscleUp</editorial>
+        <precio>10.50</precio>
+        <ISBN>4444</ISBN>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Ruben Mesias Apostol</autor>
+        <titulo>De Foam Gun a Siksilk</titulo>
+        <editorial>MuscleUp</editorial>
+        <precio>60.50</precio>
+        <ISBN>5555</ISBN>
+        <numPaginas>100</numPaginas>
+    </libros>
+</libreria>
+    
