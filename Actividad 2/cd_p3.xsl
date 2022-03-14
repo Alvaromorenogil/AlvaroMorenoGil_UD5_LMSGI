@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
+
+<!-- Elegir un sello cualquiera y mostrar una tabla con todas las canciones de ese sello. -->
+
 <html>
     <body>
         <h1>Colección personal de CDs de Alvaro Morneo Gil</h1>
@@ -11,8 +14,10 @@
                 <th>Sello</th>
                 <th>Año</th>
                 <th>Canciones</th>
-            </tr>           
+            </tr>  
+
             <xsl:for-each select="cds/cd[sello='DJ Luian']">
+            
             <tr>
                 <td><xsl:value-of select="titulo"/></td>
                 <td><xsl:value-of select="artista"/></td>
@@ -25,7 +30,7 @@
                     </xsl:for-each>
                 </td>
             </tr>
-        </xsl:for-each>   
+            </xsl:for-each>   
         </table>
     </body>
 </html>
